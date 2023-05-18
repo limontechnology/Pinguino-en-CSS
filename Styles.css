@@ -194,12 +194,3 @@ body {
     animation: snowing calc(1s * var(--i)) linear infinite;
     animation-delay: -35s;
 }
-
-/*
-.floor {
-    position: relative;
-    bottom: 0%;
-    background: linear-gradient(#fde2b0, #fff);
-    height: 20cm;
-    width: 100vw;
-}*/
