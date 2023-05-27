@@ -7,7 +7,7 @@ body {
 }
 
 .pinguino {
-    --pinguino-barriga: white;
+    --pinguino-barriga: #EADCD9;
     --pinguino-pico: yellow;
     position: relative;
     margin: auto;
